@@ -1,4 +1,4 @@
-# web-2-starter
+# web-2-pen-project-people
 
 ## Why?
 * Saves time to setup a new project
